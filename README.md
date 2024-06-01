@@ -833,7 +833,6 @@ WHERE
 <pre>+---------------------+----------------------------------------------------------+-------------+
 | nombre              | descripcion                                              | imagen      |
 +---------------------+----------------------------------------------------------+-------------+
-| Maceta de terracota | Maceta de
-terracota resistente para plantas de interior. | macetas.jpg |
+| Maceta de terracota | Maceta de terracota resistente para plantas de interior. | macetas.jpg |
 +---------------------+----------------------------------------------------------+-------------+
 </pre>
